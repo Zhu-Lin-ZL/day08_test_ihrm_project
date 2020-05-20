@@ -1,0 +1,2 @@
+2020-05-17 19:45:05,052 INFO [root] [__init__.py(<module>:9)] - 测试日志是否会打印！
+2020-05-17 19:45:05,057 INFO [root] [test_log.py(test01_log:9)] - 在script的test_log当中测试打印日志
